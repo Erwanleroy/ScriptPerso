@@ -4,7 +4,7 @@
 #
 #       Nom     : ProgressBar.sh
 #       But     : Barre de progression 
-#       Auteur  : gpth6724 -- erwan.leroy.ext@orange.com
+#       Auteur  : erwanlr56@gmail.com
 #       Date    : 06/02/2025 - V1 Init
 #_______________________________________________________
 #
