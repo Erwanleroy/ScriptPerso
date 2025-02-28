@@ -1,2 +1,2 @@
 # ScriptPerso
-Repository des scripts qui pourraient m'être utile
+Repo de mes scripts perso à glisser dans tous vos projets 🥸
