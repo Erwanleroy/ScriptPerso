@@ -7,6 +7,7 @@
 #                  --> echo ". $(pwd)/profile_perso.sh" >> ~/.bashrc
 #       Auteur  : erwanlr56@gmail.com
 #       Date    : 06/02/2025 - V1 Init
+#                 25/06/2025 - Ajout RC
 #_______________________________________________________
 #
 clear; unset TMOUT; 
